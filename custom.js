@@ -58,7 +58,7 @@ let type6 = new Typed('#six',{
 let type7 = new Typed('#seven',{
     strings:["Programmer coder<br>I am Example7"], 
     //strings:["Programmer coder ^3000 <br>I am Example7"], 
-   //strings:["Programmer coder ^3000 <br> I am Example7 <br> I am developer"], 
+    //strings:["Programmer coder ^3000 <br> I am Example7 <br> I am developer"], 
     //strings:["I am Example7 ^3000 `<br>I am developer Programmer coder`"], 
     //strings:["I am Example7 ^3000 `<br>I am developer Programmer` ^2000 `<br> coder`"], 
     //^ this symbol is used for pause 
